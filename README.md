@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mercy 👋  
 
-<!--
-**mercyodediran-ds/mercyodediran-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student @ Covenant University  
+📊 Aspiring Data Scientist excited about using data to solve real-world problems  
+💡 Curious mind | Lifelong learner | Big dreamer  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Python | SQL | Pandas | NumPy | Matplotlib  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Machine Learning, Data Visualization  
+- Building real projects to grow my portfolio 🚀  
+
+## ✨ Fun Fact
+- I enjoy finding patterns not just in data, but also in everyday life 🪄  
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mercyodediran)  
+- Email: odediranmer2@gmail.com 
